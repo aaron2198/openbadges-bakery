@@ -27,11 +27,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/OpenWorksGroup/openbadges-bakery.git"
+    "url": "git://github.com/aaron2198/openbadges-bakery.git"
   },
   "keywords": [
     "openbadges"
   ],
-  "author": "Brian J. Brennan - Updated by Kerri Lemoie @ OpenWorks Group",
+  "author": "Brian J. Brennan - Updated by Kerri Lemoie @ OpenWorks Group - Updated by Aaron Hess",
   "license": "MPL 2.0"
 }
