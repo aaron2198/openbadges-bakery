@@ -9,7 +9,7 @@
   "bin": "bin/oven",
   "dependencies": {
     "request": "~2.11.4",
-    "streampng": "git+https://github.com:aaron2198/openbadges-bakery.git",
+    "streampng": "git+https://git@github.com:aaron2198/openbadges-bakery.git",
     "optimist": "~0.3.5",
     "cheerio": "0.22.0",
     "concat-stream": "~1.1.0",
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaron2198/openbadges-bakery.git"
+    "url": "git://github.com/aaron2198/openbadges-bakery.git"
   },
   "keywords": [
     "openbadges"
